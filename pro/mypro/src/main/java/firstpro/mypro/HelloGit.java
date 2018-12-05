@@ -4,7 +4,8 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//hi testing pull scenario
+//hi testing pull scenario for git hub
+
 //abc
 	}
 
